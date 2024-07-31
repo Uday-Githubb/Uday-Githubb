@@ -43,7 +43,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/uday98110/uday98110/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ###
