@@ -6,15 +6,7 @@
 
 ###
 
-<h6 align="left">🌟 3-star rating on CodeChef<br>🌟 1438-Specialist rating on Codeforces<br>🌟 4-star badge on HackerRank<br>>At DTU, I serve as the Corporate and Speakers Head for Yuvaan, the Literature and Filmfest Society of Dtu. <br>>Beyond my academic and extracurricular commitments, I also work as a Business Connector. I facilitate meaningful connections between CEOs and MDs of prominent companies, fostering collaborations and networking opportunities.<br>>Life is a balance of hard work and enjoyment, and I strive to make the most out of every moment. Connect with me to discuss coding, business, or just to say hi!</h6>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="left"></h2>
+<h6 align="left">🔹 Competitive Programming Achievements:<br>‣CodeChef: 🌟🌟🌟 3 Star with a rating of 1600+<br>‣Codeforces: 🏅 Specialist with a rating of 1400+<br>‣HackerRank: ⭐⭐⭐⭐ 4-star badge<br>💼 Professional Experience:<br>E-Cell DTU Corporate & GuestSpeakers-Head: I play a key role in the Entrepreneurship Cell at DTU, where I have successfully executed panel discussions and speaker sessions. This involves connecting with over 40+ CEOs and MDs of prominent companies for guest appearances, and collaborating with the logistics team and volunteers for smooth event execution.<br>📈 Always eager to learn and grow, I'm continuously seeking opportunities to expand my expertise and contribute to innovative projects.<br>🌟 Feel free to check out my repositories and connect with me!</h6>
 
 ###
 
@@ -49,5 +41,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/uday98110/uday98110/output/snake.svg" alt="Snake animation" />
 
 ###
