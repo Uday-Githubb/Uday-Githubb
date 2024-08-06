@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uday</h1>
+<h1 align="center">Hello 👋, I'm Uday</h1>
 <h3 align="center">A pre-final year B.Tech Mathematics and Computing engineering student at Delhi Technological University (DTU).</h3>
 
 - E-Cell DTU Corporate & GuestSpeakers-Head: **I play a key role in the Entrepreneurship Cell at DTU, where I have successfully executed panel discussions and speaker sessions. This involves connecting with over 40+ CEOs and MDs of prominent companies for guest appearances, and collaborating with the logistics team and volunteers for smooth event execution.**
