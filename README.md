@@ -1,12 +1,10 @@
 <h1 align="center">Hello 👋, I'm Uday</h1>
 <h3 align="center">A pre-final year B.Tech Mathematics and Computing engineering student at Delhi Technological University (DTU).</h3>
 
-- E-Cell DTU Corporate & GuestSpeakers-Head: **I play a key role in the Entrepreneurship Cell at DTU, where I have successfully executed panel discussions and speaker sessions. This involves connecting with over 40+ CEOs and MDs of prominent companies for guest appearances, and collaborating with the logistics team and volunteers for smooth event execution.**
-
-- 📫 How to reach me: **In.uday.world.com**
+- 📫 How to reach me: **In.uday.world@gmial.com**
 
 ###
-- Competitive Programming Achievements:<br>‣CodeChef: 3 Star with a rating of 1600+<br>‣Codeforces: 🏅 Specialist with a rating of 1400+<br>‣HackerRank:  4-star badge<br>
+- Competitive Programming Achievements:<br>‣CodeChef: 3 Star with a rating of 1600+<br>‣Codeforces: 🏅 Expert with a rating of 1700+<br>‣HackerRank:  4-star badge<br>
 - 📈 Always eager to learn and grow, I'm continuously seeking opportunities to expand my expertise and contribute to innovative projects.<br>
 - 🌟 Feel free to check out my repositories and connect with me!
 ###
