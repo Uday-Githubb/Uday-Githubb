@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Uday</h1>
 <h3 align="center">A pre-final year B.Tech Mathematics and Computing engineering student at Delhi Technological University (DTU).</h3>
 
-- 📫 How to reach me: **In.uday.world@gmial.com**
+- 📫 How to reach me: **In.uday.world@gmail.com**
 
 ###
 - Competitive Programming Achievements:<br>‣CodeChef: 3 Star with a rating of 1600+<br>‣Codeforces: 🏅 Expert with a rating of 1700+<br>‣HackerRank:  4-star badge<br>
