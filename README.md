@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Uday</h1>
+<h1 align="center">Hello👋, I'm Uday</h1>
 <h3 align="center">A pre-final year B.Tech Mathematics and Computing engineering student at Delhi Technological University (DTU).</h3>
 
 - 📫 How to reach me: **In.uday.world@gmail.com**
