@@ -4,7 +4,7 @@
 - 📫 How to reach me: **In.uday.world@gmail.com**
 
 ###
-- Competitive Programming Achievements:<br>‣CodeChef: 3 Star with a rating of 1631<br>‣Codeforces: 🏅 Expert with a rating of 1700+<br>‣HackerRank:  4-star badge<br>
+- Competitive Programming Achievements:<br>‣CodeChef: 3-Star with a rating of 1600+<br>‣Codeforces: 🏅 Expert with a rating of 1700+<br>‣geeksforgeeks:  4-star with a rating of 1900+<br>
 - 📈 Always eager to learn and grow, I'm continuously seeking opportunities to expand my expertise and contribute to innovative projects.<br>
 - 🌟 Feel free to check out my repositories and connect with me!
 ###
