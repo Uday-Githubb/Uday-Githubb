@@ -1,13 +1,12 @@
 <h1 align="center">Hello👋, I'm Uday</h1>
 <h3 align="center">A pre-final year B.Tech Mathematics and Computing engineering student at Delhi Technological University (DTU).</h3>
 
-- 📫 How to reach me: **In.uday.world@gmail.com**
-
 ###
 - Competitive Programming Achievements:<br>‣CodeChef: 3-Star with a rating of 1600+<br>‣Codeforces: 🏅 Expert with a rating of 1700+<br>‣geeksforgeeks:  4-star with a rating of 1900+<br>
 - 📈 Always eager to learn and grow, I'm continuously seeking opportunities to expand my expertise and contribute to innovative projects.<br>
 - 🌟 Feel free to check out my repositories and connect with me!
-###
+- 📫 How to reach me: **In.uday.world@gmail.com**
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
