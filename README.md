@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Uday</h1>
-<h3 align="center">A pre-final year B.Tech Mathematics and Computing engineering student at Delhi Technological University (DTU).</h3>
+<h3 align="center">A final year B.Tech Mathematics and Computing engineering student at Delhi Technological University (DTU).</h3>
 
 ###
 - Competitive Programming Achievements:<br>‣LeetCode: Knight with a rating of 1940+<br>‣Codechef:  3★ with a rating of 1630+<br>
